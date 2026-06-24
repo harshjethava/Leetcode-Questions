@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshjethava/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/harshjethava/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshjethava/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/harshjethava/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/harshjethava/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
