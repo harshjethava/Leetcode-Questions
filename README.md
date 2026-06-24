@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +41,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
