@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
