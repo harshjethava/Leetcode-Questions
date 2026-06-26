@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/harshjethava/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Segment Tree
 |  |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
