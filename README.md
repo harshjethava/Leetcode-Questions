@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
 ## Math
