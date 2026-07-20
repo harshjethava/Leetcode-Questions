@@ -4,7 +4,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int rotate = k;
+        int rotate = k % (m*n);
 
         while(rotate > 0){
             int[][] temp = new int[m][n];
