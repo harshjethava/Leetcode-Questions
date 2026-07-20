@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshjethava/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshjethava/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/harshjethava/Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -203,9 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshjethava/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshjethava/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
