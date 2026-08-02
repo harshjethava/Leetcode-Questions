@@ -3,7 +3,8 @@ class Solution {
 
         int len = piles.length;
         int alice = 0, bob = 0;
-
+        
+        //From Start
         for(int i=0;i<len;i++){
             if(i%2 == 0){
                 alice += piles[i];
@@ -16,6 +17,7 @@ class Solution {
 
         alice = 0; bob = 0;
 
+        //From End
         if(len % 2 == 0){
             for(int j=len-1;j>=0;j--){
                 if(j%2 != 0){
