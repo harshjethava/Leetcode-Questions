@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/harshjethava/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -254,9 +256,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
