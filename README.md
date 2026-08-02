@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshjethava/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshjethava/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshjethava/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshjethava/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
