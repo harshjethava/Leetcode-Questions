@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0763-partition-labels](https://github.com/harshjethava/Leetcode-Questions/tree/master/0763-partition-labels) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshjethava/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -334,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harshjethava/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
