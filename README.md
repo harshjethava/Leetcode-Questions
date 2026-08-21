@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/harshjethava/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshjethava/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0821-shortest-distance-to-a-character](https://github.com/harshjethava/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/harshjethava/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/harshjethava/Leetcode-Questions/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/harshjethava/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshjethava/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/harshjethava/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/harshjethava/Leetcode-Questions/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/harshjethava/Leetcode-Questions/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/harshjethava/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshjethava/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
