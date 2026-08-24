@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshjethava/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshjethava/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshjethava/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshjethava/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshjethava/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshjethava/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshjethava/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/harshjethava/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshjethava/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -332,10 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 ## Binary Search Tree
 |  |
 | ------- |
