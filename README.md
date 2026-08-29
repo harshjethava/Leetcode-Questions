@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/harshjethava/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshjethava/Leetcode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/harshjethava/Leetcode-Questions/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/harshjethava/Leetcode-Questions/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshjethava/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshjethava/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshjethava/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshjethava/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
