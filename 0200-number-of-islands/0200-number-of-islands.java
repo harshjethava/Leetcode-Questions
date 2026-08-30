@@ -13,7 +13,7 @@ class Solution {
         dfs(i, j+1, vis, grid, m, n); //right
 
     }
-    public int numIslands(char[][] grid) {
+    public int numIslands(char[][] grid) { // solve using DFS
         int m = grid.length;
         int n = grid[0].length;
         int islands = 0;
