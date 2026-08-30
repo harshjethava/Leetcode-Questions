@@ -1,5 +1,5 @@
-class Solution {
-    public int orangesRotting(int[][] grid) {
+class Solution { 
+    public int orangesRotting(int[][] grid) { // solve using BFS
 
         int m = grid.length;
         int n = grid[0].length;
