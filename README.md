@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/harshjethava/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/harshjethava/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/harshjethava/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/harshjethava/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshjethava/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -285,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshjethava/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/harshjethava/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshjethava/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshjethava/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshjethava/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/harshjethava/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshjethava/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
