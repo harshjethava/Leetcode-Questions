@@ -397,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/harshjethava/Leetcode-Questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
