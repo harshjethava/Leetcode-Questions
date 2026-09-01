@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/harshjethava/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0763-partition-labels](https://github.com/harshjethava/Leetcode-Questions/tree/master/0763-partition-labels) |
+| [1079-letter-tile-possibilities](https://github.com/harshjethava/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshjethava/Leetcode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshjethava/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshjethava/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harshjethava/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/harshjethava/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshjethava/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/harshjethava/Leetcode-Questions/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/harshjethava/Leetcode-Questions/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshjethava/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [1079-letter-tile-possibilities](https://github.com/harshjethava/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshjethava/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshjethava/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/harshjethava/Leetcode-Questions/tree/master/0176-second-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/harshjethava/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
