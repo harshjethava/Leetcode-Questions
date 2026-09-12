@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshjethava/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshjethava/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/harshjethava/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/harshjethava/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshjethava/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshjethava/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harshjethava/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshjethava/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/harshjethava/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshjethava/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/harshjethava/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshjethava/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/harshjethava/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/harshjethava/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshjethava/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshjethava/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/harshjethava/Leetcode-Questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/harshjethava/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/harshjethava/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshjethava/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshjethava/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/harshjethava/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshjethava/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -427,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harshjethava/Leetcode-Questions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshjethava/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
