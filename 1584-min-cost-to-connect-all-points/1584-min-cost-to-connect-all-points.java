@@ -1,3 +1,4 @@
+//Using Prim's Algorithm
 // class Solution {
 //     public int minCostConnectPoints(int[][] points) {
 
